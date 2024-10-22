@@ -1,0 +1,13 @@
+﻿{
+  "Name": "You can",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Gk_ncw6IWEuxebZhtbtMZg",
+  "Reference": "pAW0ZXXMTUyR9-kQBZg5dQ/Gk_ncw6IWEuxebZhtbtMZg",
+  "ParentRef": "pAW0ZXXMTUyR9-kQBZg5dQ/UjwtvIsjfkusR9KPPfsW_w",
+  "Created": "2024-10-20T10:56:08.2833226Z",
+  "Updated": "2024-10-20T10:56:08.2833226Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

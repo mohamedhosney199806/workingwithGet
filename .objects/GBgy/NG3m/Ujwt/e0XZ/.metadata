@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Video Transcript'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "e0XZF5SWo0a05VPb8gYPUw",
+  "Reference": "pAW0ZXXMTUyR9-kQBZg5dQ/e0XZF5SWo0a05VPb8gYPUw",
+  "ParentRef": "pAW0ZXXMTUyR9-kQBZg5dQ/UjwtvIsjfkusR9KPPfsW_w",
+  "Created": "2024-10-20T11:08:39.9558763Z",
+  "Updated": "2024-10-20T11:08:39.9558763Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

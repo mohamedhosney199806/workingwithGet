@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Chrome: UiPath Academy app",
+  "Type": "App",
+  "Id": "GBgyYXjKX0aNpOsk0xeNuQ",
+  "Reference": "pAW0ZXXMTUyR9-kQBZg5dQ/GBgyYXjKX0aNpOsk0xeNuQ",
+  "Created": "2024-10-20T10:56:08.1627901Z",
+  "Updated": "2024-10-20T10:56:08.1627901Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

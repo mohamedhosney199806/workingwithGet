@@ -1,0 +1,86 @@
+{
+  "name": "BlankProcess1",
+  "projectId": "3a8470c2-b18d-4702-af5d-0df77cf68616",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.23.0-preview]",
+    "UiPath.IntegrationService.Activities": "[1.1.0]",
+    "UiPath.Mail.Activities": "[1.21.1]",
+    "UiPath.MicrosoftDynamics.Activities": "[2.0.0-preview]",
+    "UiPath.MicrosoftDynamicsCRM.IntegrationService.Activities": "[5.0.5]",
+    "UiPath.MicrosoftDynamicsFO.Activities": "[1.2.0-preview]",
+    "UiPath.MicrosoftOffice365.Activities": "[2.7.0-preview]",
+    "UiPath.MicrosoftSentiment.IntegrationService.Activities": "[5.0.5-preview]",
+    "UiPath.MicrosoftTranslator.Activities": "[1.1.1]",
+    "UiPath.MicrosoftVision.Activities": "[3.2.2]",
+    "UiPath.MicrosoftVision.IntegrationService.Activities": "[5.0.2-preview]",
+    "UiPath.PDF.Activities": "[3.20.1]",
+    "UiPath.System.Activities": "[23.12.0-preview]",
+    "UiPath.Testing.Activities": "[23.12.0-preview]",
+    "UiPath.UIAutomation.Activities": "[23.10.8]",
+    "UiPath.Word.Activities": "[1.19.2-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "23.12.0.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "exceptionHandlerWorkflow": "GlobalHandler.xaml",
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "79253c52-f39b-489e-914e-c3468830a55c",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Workflow.cs",
+      "uniqueId": "221f4031-1af3-479a-bc09-62608b4ce784",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Modern Activity.xaml",
+      "uniqueId": "d7caee3e-4e5b-4527-bbcb-559cbe267fd9",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
